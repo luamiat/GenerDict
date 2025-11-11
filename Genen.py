@@ -4,11 +4,7 @@ import sys
 import secrets
 
 
-class Gen():
-    #nota: arreglar lo de que las contraseñas se ponen en un orden de num let para que sea por turnos esta posicion entre ellos
-
-    #nota: verificar la existencia de los diccionarios antes de haber creado las contraseñas 
-
+class Gen(): 
     VER = "1.2"
 
     #colors
