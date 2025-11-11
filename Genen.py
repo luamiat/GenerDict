@@ -5,7 +5,7 @@ import secrets
 
 
 class Gen(): 
-    VER = "1.2"
+    VER = "1.0"
 
     #colors
     RE = "\033[91m"
